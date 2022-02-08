@@ -1,0 +1,17 @@
+:root {
+  /* colors */
+  --light-yellow: #ffe21d;
+  --dark-yellow: #ffd21d;
+  --light-blue: #24afff;
+  --dark-blue: #248bff;
+  --pink: #f26c6c;
+  --green: #26b667;
+  --black: #000000;
+
+  /* font */
+  --font-montserrat: 'Montserrat';
+  --default-font-size: 1em;
+  --small-font-size: 0.8em;
+  --big-font-size: 3em;
+  --spacing-unit: 10px;
+}
