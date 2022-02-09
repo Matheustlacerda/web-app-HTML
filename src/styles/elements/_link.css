@@ -1,0 +1,7 @@
+a {
+  color: var(--white);
+}
+
+a:hover {
+  color: var(--light-gray);
+}
