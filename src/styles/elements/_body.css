@@ -2,4 +2,6 @@ body {
   font-family: var(--font-montserrat);
   font-size: var(--default-font-size);
   color: var(--black);
+  background-color: var(--black);
+  height: 100vh;
 }
