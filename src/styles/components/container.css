@@ -1,0 +1,38 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--light-gray);
+  padding: 20px;
+  align-items: center;
+  height: 100vh;
+}
+
+.text-title {
+  color: var(--light-blue);
+  font-weight: bolder;
+  font-size: var(--big-font-size);
+  margin-right: 20px;
+}
+
+.text-main {
+  color: var(--black);
+  font-weight: bolder;
+  margin-right: 20px;
+}
+
+.container--input {
+  width: 500px;
+  height: 50px;
+  border: none;
+}
+.container--button {
+  width: 150px;
+  height: 50px;
+}
+
+.container_large--input {
+  width: 500px;
+  height: 200px;
+  border: none;
+}

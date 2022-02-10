@@ -12,7 +12,6 @@
 }
 
 .button--defalt {
-  background-color: Transparent; 
   color: var(--black); 
   border-color: var(--light-yellow);
 }
@@ -33,14 +32,7 @@
   border-color: var(--dark-yellow);
 }
 
-/* simulate pressed button */
-.button--defalt--active {
-  background-color: var(--dark-yellow);
-  border-color: var(--dark-yellow);
-}
-
 .button--defalt2 {
-  background-color: Transparent; 
   color: var(--black); 
   border-color: var(--light-blue);
 }
