@@ -10,7 +10,7 @@ form {
 
 .form--title {
   color: var(--light-blue);
-  font-weight: bolder;
+  font-weight: 900;
   font-size: var(--big-font-size);
   margin-right: 20px;
   align-items: left;
@@ -18,7 +18,7 @@ form {
 
 .form--text {
   color: var(--black);
-  font-weight: bolder;
+  font-weight: 900;
   margin-right: 20px;
 }
 
