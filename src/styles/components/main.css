@@ -1,0 +1,15 @@
+.main {
+  display: flex;
+  flex-direction: row;
+  height: 90vh;
+  padding: 20px;
+}
+
+.main--title {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  font-family: var(--font-montserrat);
+  font-size: var(--big-font-size);
+  color: var(--white);
+}

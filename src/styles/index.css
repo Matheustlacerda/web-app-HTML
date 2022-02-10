@@ -2,3 +2,11 @@
 @import 'generic/_box-sizing.css';
 @import 'generic/_resets.css';
 @import 'elements/_body.css';
+@import 'elements/_link.css';
+@import 'components/buttons.css';
+@import 'components/inputs.css';
+@import 'components/background.css';
+@import 'components/header.css';
+@import 'components/main.css';
+@import 'components/container.css';
+@import 'components/footer.css';

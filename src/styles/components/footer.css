@@ -1,0 +1,29 @@
+.footer {
+  background-color: var(--light-gray2);
+  height: 15vh;
+  display: flex;
+  width: 100%;
+  padding: 40px;
+  justify-content: space-between;
+  color: var(--gray);
+}
+
+.footer.text {
+  justify-self: center;
+}
+
+.footer--button{
+  right: 2rem;
+  bottom: 2rem;
+  border: none;
+  align-self: flex-end;
+}
+
+.footer--arrow {
+  border: solid var(--black);
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+  transform: rotate(-135deg);
+  -webkit-transform: rotate(-135deg);
+}

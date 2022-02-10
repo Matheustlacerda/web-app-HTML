@@ -1,0 +1,9 @@
+a {
+  color: var(--white);
+  text-decoration: none;
+  font-weight: 900;
+}
+
+a:hover {
+  color: var(--light-gray);
+}
