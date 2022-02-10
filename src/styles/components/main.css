@@ -1,7 +1,7 @@
 .main {
   display: flex;
-  flex-direction: column;
-  height: 100%;
+  flex-direction: row;
+  height: 90vh;
   padding: 20px;
 }
 
@@ -12,5 +12,4 @@
   font-family: var(--font-montserrat);
   font-size: var(--big-font-size);
   color: var(--white);
-  height: 100%;
 }
