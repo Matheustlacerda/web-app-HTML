@@ -11,18 +11,18 @@
   font-weight: bolder;
 }
 
-.button--defalt {
+.button--default {
   background-color: Transparent; 
   color: var(--black); 
   border-color: var(--light-yellow);
 }
 
-.button--defalt--hover:hover {
+.button--default--hover:hover {
   background-color: var(--light-yellow);
   border-color: var(--light-yellow);
 }
 
-.button--defalt--active:active {
+.button--default--active:active {
   background-color: var(--dark-yellow);
   border-color: var(--dark-yellow);
 }
@@ -34,24 +34,24 @@
 }
 
 /* simulate pressed button */
-.button--defalt--active {
+.button--default--active {
   background-color: var(--dark-yellow);
   border-color: var(--dark-yellow);
 }
 
-.button--defalt2 {
+.button--default2 {
   background-color: Transparent; 
   color: var(--black); 
   border-color: var(--light-blue);
 }
 
-.button--defalt2--hover:hover {
+.button--default2--hover:hover {
   background-color: var(--light-blue);
   border-color: var(--light-blue);
   color: var(--white);
 }
 
-.button--defalt2--active:active {
+.button--default2--active:active {
   background-color: var(--dark-blue);
   border-color: var(--dark-blue);
   color: var(--white);
